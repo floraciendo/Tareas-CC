@@ -1,5 +1,9 @@
 ## Tareas Computación Científica 2024-1
 
-Notas[^1]: 90, 90
-
-[^1]: En escala de 0 a 90.
+|   TAREA   |  NOTA (0-90)  |
+|:---------:|:-------------:|
+| *Tarea 0* |      *90*     |
+|  Tarea 1  |       90      |
+|  Tarea 2  |       90      |
+|  Tarea 3  |               |
+|  Tarea 4  |               |
