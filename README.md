@@ -6,4 +6,4 @@
 |  Tarea 1  |       90      |
 |  Tarea 2  |       90      |
 |  Tarea 3  |       90      |
-|  Tarea 4  |               |
+|  Tarea 4  |       85      |
